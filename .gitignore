@@ -10,6 +10,9 @@ selenium-debug*
 
 # production
 /build
+/tests_output
+selenium-debug.log
+nightwatchProps.js
 
 # misc
 .DS_Store
